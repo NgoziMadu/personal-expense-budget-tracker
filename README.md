@@ -44,7 +44,7 @@ Example:
 calculateCurrentBalance();
 calculateCategoryExpenses("Food");
 getTransactionsBetweenDates("2026-09-06", "2026-09-08");
-TransactionsByDescription("Lunch");
+transactionsByDescription("Lunch");
 monthlyReport();
 budgetReport();
 ```
